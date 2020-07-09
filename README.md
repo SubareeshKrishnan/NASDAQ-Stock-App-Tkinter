@@ -39,6 +39,10 @@ pip install pandas
 pip install requests
 pip install requests_html
 ```
+#### Or use the requirements.txt
+```
+pip install -r requiremnts.txt
+```
 ## yahoo_fin methods
 ### The yahoo_fin package has two modules. These are called stock_info and options. 
 * Stock_info has the below primary methods.
