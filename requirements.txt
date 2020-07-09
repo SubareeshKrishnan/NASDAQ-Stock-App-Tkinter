@@ -1,0 +1,4 @@
+tkinter
+yahoo_fin
+requests
+requests_html
