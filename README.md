@@ -41,7 +41,7 @@ pip install requests_html
 ```
 #### Or use the requirements.txt
 ```
-pip install -r requiremnts.txt
+pip install -r requirements.txt
 ```
 ## yahoo_fin methods
 ### The yahoo_fin package has two modules. These are called stock_info and options. 
